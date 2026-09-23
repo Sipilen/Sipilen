@@ -12,20 +12,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sipilen&theme=radical" alt="Streak Stats" />
 </div>
 
-
-
-##  Избранные Проекты
-
-<div align="center">
-  <a href="https://github.com/sipilen/TrueDamageNullifier">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sipilen&repo=TrueDamageNullifier&theme=radical" alt="TrueDamageNullifier" />
-  </a>
-  <a href="https://github.com/sipilen/NSC">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sipilen&repo=NSC&theme=radical" alt="NSC" />
-  </a>
-</div>
-
-
 ## Связь
 <div align="center">
   <a href="https://t.me/Sipilen"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
